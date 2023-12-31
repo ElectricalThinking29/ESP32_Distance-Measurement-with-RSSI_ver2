@@ -27,7 +27,7 @@ limitations under the License.
 */
 
 /*** DISCRIPTION ***
-  This is the Reading-RSSI-&-Calculate-distance program for ESP32-DevKitC 
+  This is the Reading-RSSI-&-Calculate-distance program for ESP32-S2 Mini 
   board of my "second" Measure-distance-using-RSSI project.
 */
 
